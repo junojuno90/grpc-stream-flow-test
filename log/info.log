@@ -1,0 +1,33 @@
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2046,"level":30,"msg":"server On","time":"2018-04-01T05:27:43.799Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2046,"level":30,"msg":"isStart : true","time":"2018-04-01T05:27:43.809Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2046,"level":30,"msg":"message : String data / 0","time":"2018-04-01T05:27:44.798Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2046,"level":30,"msg":"message : String data / 1","time":"2018-04-01T05:27:45.801Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2046,"level":30,"msg":"message : String data / 2","time":"2018-04-01T05:27:46.806Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2046,"level":30,"msg":"message : String data / 3","time":"2018-04-01T05:27:47.810Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2046,"level":30,"msg":"message : String data / 4","time":"2018-04-01T05:27:48.814Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2046,"level":30,"msg":"message : String data / 5","time":"2018-04-01T05:27:49.817Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2046,"level":30,"msg":"message : String data / 6","time":"2018-04-01T05:27:50.820Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2046,"level":30,"msg":"message : String data / 7","time":"2018-04-01T05:27:51.824Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2046,"level":30,"msg":"message : String data / 8","time":"2018-04-01T05:27:52.829Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2046,"level":30,"msg":"message : String data / 9","time":"2018-04-01T05:27:53.833Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2046,"level":30,"msg":"isEnd : true","time":"2018-04-01T05:27:53.834Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2048,"level":30,"msg":"Client Data Received : [object Object]","time":"2018-04-01T05:27:53.839Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2048,"level":30,"msg":"Request Succes Re-request Start","time":"2018-04-01T05:27:53.840Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2046,"level":30,"msg":"message : String data / 0","time":"2018-04-01T05:27:54.843Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2046,"level":30,"msg":"message : String data / 1","time":"2018-04-01T05:27:55.846Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2046,"level":30,"msg":"message : String data / 2","time":"2018-04-01T05:27:56.849Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2046,"level":30,"msg":"message : String data / 3","time":"2018-04-01T05:27:57.851Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2046,"level":30,"msg":"message : String data / 4","time":"2018-04-01T05:27:58.855Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2046,"level":30,"msg":"message : String data / 5","time":"2018-04-01T05:27:59.859Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2046,"level":30,"msg":"message : String data / 6","time":"2018-04-01T05:28:00.861Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2046,"level":30,"msg":"message : String data / 7","time":"2018-04-01T05:28:01.866Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2046,"level":30,"msg":"message : String data / 8","time":"2018-04-01T05:28:02.870Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2046,"level":30,"msg":"message : String data / 9","time":"2018-04-01T05:28:03.875Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2046,"level":30,"msg":"isEnd : true","time":"2018-04-01T05:28:03.875Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2048,"level":30,"msg":"Client Data Received : [object Object]","time":"2018-04-01T05:28:03.877Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2048,"level":30,"msg":"Request Succes Re-request Start","time":"2018-04-01T05:28:03.877Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2046,"level":30,"msg":"message : String data / 0","time":"2018-04-01T05:28:04.880Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2046,"level":30,"msg":"message : String data / 1","time":"2018-04-01T05:28:05.880Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2046,"level":30,"msg":"message : String data / 2","time":"2018-04-01T05:28:06.885Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2046,"level":30,"msg":"message : String data / 3","time":"2018-04-01T05:28:07.889Z","v":0}
+{"name":"For Pleasure","hostname":"JJHui-MacBook-Air.local","pid":2048,"level":50,"err":{"message":"14 UNAVAILABLE: EOF","name":"Error","stack":"Error: 14 UNAVAILABLE: EOF\n    at createStatusError (/Users/jjh/Documents/nodejs/test1/node_modules/grpc/src/client.js:64:15)\n    at ClientDuplexStream._emitStatusIfDone (/Users/jjh/Documents/nodejs/test1/node_modules/grpc/src/client.js:270:19)\n    at ClientDuplexStream._receiveStatus (/Users/jjh/Documents/nodejs/test1/node_modules/grpc/src/client.js:248:8)\n    at /Users/jjh/Documents/nodejs/test1/node_modules/grpc/src/client.js:804:12","code":14},"msg":"14 UNAVAILABLE: EOF","time":"2018-04-01T05:28:08.423Z","v":0}
