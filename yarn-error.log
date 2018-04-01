@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/Cellar/node/9.10.1/bin/node /usr/local/bin/yarn start
+  /usr/local/Cellar/node/9.10.1/bin/node /usr/local/bin/yarn jest
 
 PATH: 
   /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
@@ -19,19 +19,25 @@ npm manifest:
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
+    
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
       "build": "rimraf dist/ && babel ./ --out-dir dist/ --ignore ./node_modules,./.babelrc,./package.json,./npm-debug.log --copy-files",
       "start": "npm run build && node dist/src/server/index.js",
       "request": "npm run build && node dist/src/client/index.js"
     },
+    
+    
     "author": "",
     "license": "ISC",
+  
+  
     "devDependencies": {
       "babel-cli": "^6.26.0",
       "babel-preset-es2015": "^6.24.1",
       "rimraf": "^2.6.2"
     },
+  
     "dependencies": {
       "bunyan": "^1.8.12",
       "bunyan-prettystream": "^0.1.3",
@@ -39,6 +45,14 @@ npm manifest:
       "grpc": "^1.10.1",
       "jest": "^22.4.3",
       "sleep": "^5.1.1"
+    },
+  
+    "jest": {
+      "verbose": true,
+      "testPathIgnorePatterns" : [
+        "/node_modules/",
+        "/dist/"
+      ]
     }
   }
 
@@ -4251,7 +4265,7 @@ Trace:
   Error: Command failed.
   Exit code: 1
   Command: sh
-  Arguments: -c npm run build && node dist/src/server/index.js
+  Arguments: -c /Users/jjh/Documents/nodejs/test1/node_modules/.bin/jest
   Directory: /Users/jjh/Documents/nodejs/test1
   Output:
   

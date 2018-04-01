@@ -2,16 +2,22 @@ syntax = "proto3";
 
 service JunoService {
     rpc HelloStream (stream HelloRequest) returns (stream HelloResponse);
+    rpc HealthCheck (HealthCheckRequest) returns (HealthCheckResponse);
 }
 
 message HelloRequest {
     oneof type {
         bool start = 1;
-        string data = 2;
+        bytes data = 2;
         bool end = 3;
     }   
 }
 
 message HelloResponse {
     bool isSuccess = 1;
+}
+
+message HealthCheckRequest {}
+message HealthCheckResponse {
+    bool ok = 1;
 }
